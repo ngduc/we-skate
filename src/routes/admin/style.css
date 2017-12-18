@@ -1,0 +1,17 @@
+.main {
+    
+}
+.main h3 {
+    padding: 80px 20px 0 20px;
+}
+.main div {
+    padding: 20px;
+}
+
+.form label,
+.form input,
+.form button {
+	margin: 0 10px;
+	padding: 5px;
+	font-size: 0.8em;
+}
